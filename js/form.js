@@ -40,6 +40,7 @@ class Form {
                 gameState: 0,
                 playerCount: 0
             })
+            location.reload()
         })
     }
 }
